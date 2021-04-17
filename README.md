@@ -7,7 +7,6 @@
 - 🤔 I’m looking for help with ... AWS
 - 💬 Ask me about ... Whatever you want
 - 📫 How to reach me: ... <br/> <a href="mailto:jason_hinton@att.net">Email</a> <br/> [LinkedIn](www.linkedin.com/in/jason-hinton) 
-- 😄 Pronouns: ... Words that refer to either the people talking (I or you) or someone or something that is being talked about (like she, it, them, and this)
 - ⚡ Fun fact: ... I play drums and guitar.
 -->
 
