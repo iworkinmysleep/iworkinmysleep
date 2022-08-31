@@ -1,10 +1,10 @@
 ## Hi 👋, I'm Jason Hinton. I'm a full stack web developer.
 
 
-- 🔭 I’m currently working on ... Data Structures and Algos
-- 🌱 I’m currently learning ... Typescript
+- 🔭 I’m currently working on ... Mohawk Xchange B2B
+- 🌱 I’m currently learning ... Astro
 - 👯 I’m looking to collaborate on ... .Net framework
-- 🤔 I’m looking for help with ... Finding a new role
+- 🤔 I’m looking for help with ... Safari crashing on mobile for weird reasons
 - 💬 Ask me about ... Whatever you want
 - 📫 How to reach me: ... <br/> <a href="mailto:jason_hinton@att.net">Email</a> <br/> [LinkedIn](www.linkedin.com/in/jason-hinton) 
 - ⚡ Fun fact: ... I play drums and guitar.
